@@ -25,8 +25,8 @@ function App() {
 export default App;*/
 
 import React from 'react';
-import Nav from './components/Nav';
-import About from './components/About';
+import Nav from '../components/Nav';
+import About from '../components/About';
 
 function App() {
 

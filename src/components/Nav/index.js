@@ -1,5 +1,5 @@
 import React from "react";
-import { capitalizeFirstLetter } from "../../utils/helpers";
+import { capitalizeFirstLetter } from "src/utils/helper.js";
 
 function Nav() {
     const categories = [
@@ -46,3 +46,4 @@ function Nav() {
         </header>
     );
 }
+export default Nav;
