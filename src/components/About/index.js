@@ -1,5 +1,5 @@
 import React from 'react'
-import coverImage from "src/Assets/cover/sb-blog-programming.jpeg";
+import coverImage from "../../Assets/cover/cover-image.jpg";
 
 function About() {
 
